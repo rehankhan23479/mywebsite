@@ -1,0 +1,43 @@
+
+
+#myid {
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    background-image: url("aasiya.jpg");
+    background-size: cover;
+
+}
+
+#class {
+    height: 300px;
+    width: 300px;
+    background-color: burlywood;
+    background-image: url("junaira.jpg");
+    background-size: cover;
+
+}
+
+#name {
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    background-image: url("khansa.jpg");
+    background-size: cover;
+}
+
+#zaid {
+    height: 300px;
+    width: 300px;
+    background-color: gold;
+    background-image: url("mariam.jpg");
+    background-size: cover;
+}
+
+#arsh {
+    height: 300px;
+    width: 300px;
+    background-color: olive;
+    background-image: url("moha.jpg");
+    background-size: cover;
+}
