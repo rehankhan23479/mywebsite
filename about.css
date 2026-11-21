@@ -1,0 +1,73 @@
+
+* {
+    padding: 0px;
+    margin: 0ps;
+}
+
+nav {
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+    text-align: center;
+    
+}
+
+nav input {
+    position: absolute;
+    right: 40px;
+    text-align: left;
+    
+}
+
+.movie-card {
+    display: inline-block;
+    margin-left: 40px;
+    background: #1b1b1b;
+    color: white;
+}
+
+footer {
+    background: black;
+    color: aliceblue;
+    padding: 20px;
+    margin: 20px;
+    position: sticky;
+    bottom: 0px;
+    
+}
+
+nav h1 {
+    color: #ff0000;
+    text-align: left;
+    margin-left: 20px;
+}
+
+nav a {
+    margin-left: 50px;
+
+}
+
+section h2 {
+    color: rgb(214, 1, 1);
+    display: inline;
+    
+}
+
+.navbar {
+    display: inline-block;
+}
+
+section p {
+    color: white;
+    display: inline;
+    margin: 20px;
+}
+
+body {
+    background: #1b1b1b;
+}
+
+main h1 {
+    
+    color: white;
+}
+
